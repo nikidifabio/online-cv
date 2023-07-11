@@ -117,7 +117,7 @@ certifications:
       title: Certifications
       list:
         - name: Alteryx Designer Core Certifcation
-          issued: February 2023
+          date: February 2023
           organization: Alteryx
           credentialid: 
           credentialurl: 
@@ -130,17 +130,17 @@ certifications:
             
         
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: 
         level: 98%
 
-      - name: Angular
+      - name: 
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: 
         level: 95%

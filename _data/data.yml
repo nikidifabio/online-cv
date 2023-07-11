@@ -130,21 +130,10 @@ certifications:
           organization: Alteryx
           credentialid: 111-222
           credentialurl: https://www.credly.com/badges/4b605099-1675-4672-8efd-95d6a96ecce8/public_url
-          credentialname: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4b605099-1675-4672-8efd-95d6a96ecce8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+          credentialname: Alteryx
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            Earners of this certification have a thorough understanding of the Alteryx Designer environment. They are able to use the core toolset to clean, prepare, blend, parse, transform, and analyze data. Earners have demonstrated their ability to use the tools to solve real-world analytics problems.
             
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
         - name: Git learning
           issued: 2019
           organization: Microsoft

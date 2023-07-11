@@ -63,18 +63,18 @@ education:
       - degree: MSc in International Management
         university: CEMS - The Global Alliance in Management Education
         time: 2013 - 2014
-        details: |
+        details:
             - Home School: NOVA School of Business & Economics, Lisbon (Portugal)
             - Host School: SGH - Warsaw School of Economics, Warsaw (Poland)
       - degree: MSc in Finance
         university: NOVA School of Business & Economics, Lisbon (Portugal)
         time: 2012 - 2014
-        details: |
+        
       - degree: BSc in Economics & Finance
         university: Bocconi Univeristy, Milan (Italy)
         time: 2009 - 2012
-        details: |
-            - Erasmum Program @ Estonian Business School, Tallinn (Estonia)
+        details: 
+            - Erasmum Program: Estonian Business School, Tallinn (Estonia)
             
 experiences:
     title: Profession Experiences
@@ -124,7 +124,7 @@ certifications:
           issued: February 2023
           organization: Alteryx
           credentialid: 
-          credentialurl: https://www.credly.com/earner/earned/badge/4b605099-1675-4672-8efd-95d6a96ecce8
+          credentialurl: 
           credentialname: Alteryx
           details: |
             Earners of this certification have a thorough understanding of the Alteryx Designer environment. 
@@ -134,8 +134,8 @@ certifications:
         - name: The Complete SQL Bootcamp 2022: Go from Zero to Hero
           issued: January 2022
           organization: Udemy
-          credentialid: 1
-          credentialurl: https://www.udemy.com/certificate/UC-c528f645-fff2-4b66-b089-663eb0ab641d/
+          credentialid: 
+          credentialurl: 
           credentialname: Udemy
           details: |
             Older certification. 

@@ -61,27 +61,15 @@ education:
       - degree: MSc in International Management
         university: CEMS - Global Alliance in Management Education 
         time: 2013 - 2014
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. 
-            - Bullet point
-            - Bullet point
+        
       - degree: MSc in Finance
         university: NOVA School of Business & Economics, Lisbon (Portugal)
         time: 2012 - 2014
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
-            - Bullet point
-            - Bullet point
+        
       - degree: BSc in Economics & Finance
         university: Bocconi Universtity, Milan (Italy)
         time: 2009 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
-            - Bullet point
-            - Bullet point
+        
 experiences:
     title: Professional Experiences
     info:
@@ -131,11 +119,10 @@ certifications:
           end: 
           organization: CFA
           credentialid: 
-          credentialurl: www.google.com
+          credentialurl: 
           credentialname: CFA
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
+            The Investment Foundations® Certificate provides a comprehensive overview of the investment industry and its structure, function, and role in global capital markets and society. 
         
         - name: Alteryx Designer Core Certification
           start: February 2023
@@ -145,8 +132,9 @@ certifications:
           credentialurl: 
           credentialname: Alteryx
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
+            The Designer Core Certication provides a thorough understanding of the Alteryx Designer environment. 
+            Earners are able to use the core toolset to clean, prepare, blend, parse, transform, and analyze data. 
+            Earners have demonstrated their ability to use the tools to solve real-world analytics problems.
         
 skills:
     title: Skills

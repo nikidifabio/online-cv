@@ -129,26 +129,20 @@ certifications:
           issued: February 2023
           organization: Alteryx
           credentialid: 111-222
-          credentialurl: https://www.credly.com/badges/4b605099-1675-4672-8efd-95d6a96ecce8/public_url
+          credentialurl: https://www.credly.com/earner/earned/badge/4b605099-1675-4672-8efd-95d6a96ecce8
           credentialname: Alteryx
           details: |
             Earners of this certification have a thorough understanding of the Alteryx Designer environment. They are able to use the core toolset to clean, prepare, blend, parse, transform, and analyze data. Earners have demonstrated their ability to use the tools to solve real-world analytics problems.
             
-        - name: Git learning
-          issued: 2019
-          organization: Microsoft
+        - name: The Complete SQL Bootcamp 2022: Go from Zero to Hero
+          issued: January 2022
+          organization: Udemy
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: https://www.udemy.com/certificate/UC-c528f645-fff2-4b66-b089-663eb0ab641d/
+          credentialname: Udemy
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            Older certification. 
+            
         
 skills:
     title: Skills &amp; Proficiency

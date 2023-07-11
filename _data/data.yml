@@ -4,7 +4,7 @@
 
 sidebar:
     position: Right # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,11 +14,11 @@ sidebar:
 
     # Sidebar links
     email: nikidifabio@gmail.com
-    phone: +48 531 687 131    
+    phone: +48 531 687 131
     timezone: 
     citizenship:
-    website: 
-    linkedin: www.linkedin.com/in/nikidifabio/
+    website:  #do not add http://
+    linkedin: 
     xing: 
     github: 
     telegram: # add your nickname without '@' sign
@@ -38,42 +38,55 @@ sidebar:
 
         - idiom: English
           level: Proficient
-          
 
     interests:
       title: Interests
       info:
-        - item: Sports
+        - item: Climbing
           link:
 
-        - item: Politics
+        - item: Snowboarding
           link:
 
         - item: Cooking
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summary Text
-      
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in International Management
-        university: CEMS - The Global Alliance in Management Education
-        time: 2013 - 2014
-        
-      - degree: MSc in Finance
-        university: NOVA School of Business & Economics, Lisbon (Portugal)
-        time: 2012 - 2014
-        
-      - degree: BSc in Economics & Finance
-        university: Bocconi Univeristy, Milan (Italy)
-        time: 2009 - 2012
-            
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
-    title: Profession Experiences
+    title: Professional Experiences
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -116,46 +129,45 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CFA Investment Foundations Certificate
-          start: August 2023
-          organization: CFA
-          credentialid: 
-          credentialurl: 
-          credentialname: CFA
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
-            The goal of the Investment Foundations® Certificate is to provide a comprehensive overview of the investment industry and its structure, function, and role in global capital markets and society.
-        - name: Alteryx Designer Core Certifcation
-          start: February 2023
-          organization: Alteryx
-          credentialid: 
-          credentialurl: https://www.credly.com/badges/4b605099-1675-4672-8efd-95d6a96ecce8/
-          credentialname: Alteryx
+            Details about cert. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
           details: |
-            Earners of this certification have a thorough understanding of the Alteryx Designer environment. 
-            They are able to use the core toolset to clean, prepare, blend, parse, transform, and analyze data. 
-            Earners have demonstrated their ability to use the tools to solve real-world analytics problems.
-        - name: The Complete SQL Bootcamp 2022: Go from Zero to Hero
-          start: January 2022
-          organization: Udemy
-          credentialid: 
-          credentialurl: https://www.udemy.com/certificate/UC-c528f645-fff2-4b66-b089-663eb0ab641d/
-          credentialname: Udemy
-          details: |
-            Descr
-            
+            Older certification. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
         
 skills:
     title: Skills
 
     toolset:
-      - name: 
+      - name: Python & Django
         level: 98%
 
-      - name: 
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: 
+      - name: Angular
         level: 98%
 
-      - name: 
+      - name: HTML5 & CSS
         level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%

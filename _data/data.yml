@@ -130,15 +130,7 @@ certifications:
             Earners of this certification have a thorough understanding of the Alteryx Designer environment. 
             They are able to use the core toolset to clean, prepare, blend, parse, transform, and analyze data. 
             Earners have demonstrated their ability to use the tools to solve real-world analytics problems.
-            
-        - name: The Complete SQL Bootcamp 2022: Go from Zero to Hero
-          issued: January 2022
-          organization: Udemy
-          credentialid: 
-          credentialurl: 
-          credentialname: Udemy
-          details: |
-            Older certification. 
+  
             
         
 skills:

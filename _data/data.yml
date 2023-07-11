@@ -18,7 +18,7 @@ sidebar:
     timezone: 
     citizenship:
     website:  #do not add http://
-    linkedin: www.linkedin.com/in/nikidifabio/
+    linkedin: https://www.linkedin.com/in/nikidifabio/
     xing: 
     github: 
     telegram: # add your nickname without '@' sign
@@ -136,7 +136,7 @@ certifications:
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.
-        - name: Alteryx Core Designer
+        - name: Alteryx Designer Core Certification
           start: February 2023
           end:
           organization: Alteryx

@@ -117,7 +117,7 @@ certifications:
       title: Certifications
       list:
         - name: Alteryx Designer Core Certifcation
-          date: February 2023
+          end: February 2023
           organization: Alteryx
           credentialid: 
           credentialurl: 

@@ -136,6 +136,7 @@ certifications:
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.
+        
         - name: Alteryx Designer Core Certification
           start: February 2023
           end:

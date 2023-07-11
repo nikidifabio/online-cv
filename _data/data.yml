@@ -76,7 +76,7 @@ experiences:
     info:
       - role: JP Morgan Chase & Co.
         time: May 2018 - Present
-        company: Warsaw, Poland
+        company: Warsaw (Poland)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 
@@ -85,7 +85,7 @@ experiences:
       
       - role: Lenovo
         time: March 2017 - April 2018
-        company: Warsaw, Poland
+        company: Warsaw (Poland)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 
@@ -94,7 +94,7 @@ experiences:
       
       - role: Dell Technologies
         time: August 2014 - February 2017
-        company: Warsaw, Poland / Bratislava, Slovakia
+        company: Warsaw (Poland) / Bratislava (Slovakia)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 

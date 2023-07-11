@@ -112,8 +112,8 @@ certifications:
           credentialurl: 
           credentialname: CFA
           details: |
-            The Investment Foundations Certificate provides a comprehensive overview of the investment industry and its structure, function, and role in global capital markets and society.
-            Holders understand the foundational concepts of economics, financial analysis, investment management strategies, ethics and regulations.
+            The Investment Foundations Certificate provides a comprehensive overview of the investment industry and its role in global capital markets and society.
+            Certificate holders understand the foundational concepts of economics, financial analysis, investment management strategies, ethics and regulations.
         
         - name: Alteryx Designer Core Certification
           start: February 2023
@@ -123,20 +123,18 @@ certifications:
           credentialurl: 
           credentialname: Alteryx
           details: |
-            The Designer Core Certication provides a thorough understanding of the Alteryx Designer environment. Holders are able to use the core toolset to clean, prepare, blend, parse, transform, and analyze data and have demonstrated their ability to use the tools to solve real-world analytics problems.
+            The Designer Core Certication provides a thorough understanding of the Alteryx Designer environment. 
+            Holders are able to use the core toolset to clean, prepare, blend, transform, and analyze data to solve real-world analytics problems.
         
 skills:
     title: Skills
 
     toolset:
       - name: Xxx
-        level: 95%
+        level: 90%
 
       - name: Yyy
-        level: 95%
+        level: 90%
 
       - name: Aaa
         level: 90%
-
-      - name: Hhh
-        level: 85%

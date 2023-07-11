@@ -74,27 +74,27 @@ education:
 experiences:
     title: Professional Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: JP Morgan Chase & Co.
+        time: May 2018 - Present
+        company: Warsaw, Poland
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 
             - Bullet point
             - Bullet point
       
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Lenovo
+        time: March 2017 - April 2018
+        company: Warsaw, Poland
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 
             - Bullet point
             - Bullet point
       
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Dell Technologies
+        time: August 2014 - February 2017
+        company: Warsaw, Poland / Bratislava, Slovakia
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 

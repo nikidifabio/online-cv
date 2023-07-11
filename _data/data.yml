@@ -64,35 +64,23 @@ education:
         university: CEMS - The Global Alliance in Management Education
         time: 2013 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Description
+            - Home School: NOVA School of Business & Economics, Lisbon (Portugal)
+            - Host School: SGH - Warsaw School of Economics, Warsaw (Poland)
       - degree: MSc in Finance
-        university: NOVA School of Business & Economics, Lisbon
+        university: NOVA School of Business & Economics, Lisbon (Portugal)
         time: 2012 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Description
             - Bullet point
             - Bullet point
       - degree: BSc in Economics & Finance
-        university: Bocconi Univeristy, Milan
+        university: Bocconi Univeristy, Milan (Italy)
         time: 2009 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Description
+            - Erasmum Program @ Estonian Business School, Tallinn (Estonia)
+            
 experiences:
     title: Profession Experiences
     info:
@@ -137,12 +125,12 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          issued: 2020
-          organization: Microsoft
+        - name: Alteryx Designer Core Certifcation
+          issued: February 2023
+          organization: Alteryx
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: https://www.credly.com/badges/4b605099-1675-4672-8efd-95d6a96ecce8/public_url
+          credentialname: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4b605099-1675-4672-8efd-95d6a96ecce8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.

@@ -72,44 +72,30 @@ education:
         time: 2009 - 2012
         
 experiences:
-    title: Professional Experiences
+    title: Professional Experience
     info:
-      - role: JP Morgan Chase & Co.
-        time: June 2022 - Present
-        company: Warsaw (Poland)
-        details: |Senior Associate, Firmwide Regulatory Reporting (FRRA) 
-            - xxxxx 
-            - xxxxx
-            
-      - role: Unpaid Time Off
-        time: March 2022 - May 2022
-        company: 
-        details: |
-                      
-      - role: JP Morgan Chase & Co.
-        time: May 2018 - February 2022
-        company: Warsaw (Poland)
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. 
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
             - Bullet point
             - Bullet point
-      
-      - role: Lenovo
-        time: March 2017 - April 2018
-        company: Warsaw (Poland)
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. 
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
             - Bullet point
             - Bullet point
-      
-      - role: Dell Technologies
-        time: August 2014 - February 2017
-        company: Bratislava (Slovakia) / Warsaw (Poland)
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. 
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
             - Bullet point
             - Bullet point
 

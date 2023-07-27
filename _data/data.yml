@@ -9,14 +9,14 @@ sidebar:
 
     # Profile information
     name: Niki Di Fabio
-    tagline: Title
+    tagline: 
     avatar: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: nikidifabio@gmail.com
     phone: +48 531 687 131
     timezone: 
-    citizenship:
+    citizenship: Italian
     website:  #do not add http://
     linkedin: nikidifabio
     xing: 
@@ -42,19 +42,19 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Economics
-          link:
-
-        - item: Sports
+        - item: Macroconomics
           link:
 
         - item: Personal Development
           link:
 
+        - item: Sports
+          link:
+
 career-profile:
     title: Profile
     summary: |
-      Summary Text
+      Add a few lines about myself
 
 education:
     title: Education
@@ -75,7 +75,22 @@ experiences:
     title: Professional Experiences
     info:
       - role: JP Morgan Chase & Co.
-        time: May 2018 - Present
+        time: June 2022 - Present
+        company: Warsaw (Poland)
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. 
+            - Bullet point
+            - Bullet point
+            
+       - role: Unpaid Time Off
+        time: March 2022 - May 2022
+        company: 
+        details: |
+          
+            
+      - role: JP Morgan Chase & Co.
+        time: May 2018 - February 2022
         company: Warsaw (Poland)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -125,6 +140,16 @@ certifications:
           details: |
             The Designer Core Certication provides a thorough understanding of the Alteryx Designer environment.
             Holders are able to use the core toolset to clean, prepare, blend, transform, and analyze data to solve real-world analytics problems.
+
+        - name: SQL Bootcamp
+          start: February 2023
+          end:
+          organization: Udemy
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            
         
 skills:
     title: Skills

@@ -77,9 +77,8 @@ experiences:
       - role: JP Morgan Chase & Co.
         time: June 2022 - Present
         company: Warsaw (Poland)
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. 
+        details: Senior Associate
+          Firmwide Regulatory Reporting (FRRA) 
             - Bullet point
             - Bullet point
             
@@ -100,7 +99,7 @@ experiences:
       - role: Lenovo
         time: March 2017 - April 2018
         company: Warsaw (Poland)
-        details: |
+        details: Business Controls Analyst
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 
             - Bullet point
@@ -109,11 +108,10 @@ experiences:
       - role: Dell Technologies
         time: August 2014 - February 2017
         company: Warsaw (Poland) / Bratislava (Slovakia)
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. 
-            - Bullet point
-            - Bullet point
+        details: Financial Analyst
+          Finance Development Program (FDP) consists of four six-month rotations and a significant academic focus to build solid finance skilss through MBA-type classes
+          Finance Graduate Program (FGP) is a one-year* on-the-job learning enriched with trainings in finance & business acumen, technical & soft skills
+          (*earlier promotion to FDP after just 7 months)
 
 certifications:
       title: Certifications
@@ -140,16 +138,6 @@ certifications:
             The Designer Core Certication provides a thorough understanding of the Alteryx Designer environment.
             Holders are able to use the core toolset to clean, prepare, blend, transform, and analyze data to solve real-world analytics problems.
 
-        - name: SQL Bootcamp
-          start: February 2023
-          end:
-          organization: Udemy
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            
-        
 skills:
     title: Skills
 
@@ -158,7 +146,4 @@ skills:
         level: 90%
 
       - name: Yyy
-        level: 90%
-
-      - name: Aaa
         level: 90%

@@ -77,7 +77,7 @@ experiences:
       - role: JP Morgan Chase & Co.
         time: June 2022 - Present
         company: Warsaw (Poland)
-        details: Senior Associate, Firmwide Regulatory Reporting (FRRA) 
+        details: |Senior Associate, Firmwide Regulatory Reporting (FRRA) 
             - xxxxx 
             - xxxxx
             
@@ -108,10 +108,9 @@ experiences:
         time: August 2014 - February 2017
         company: Bratislava (Slovakia) / Warsaw (Poland)
         details: |
-          Senior Financial Analyst - Finance Development Program (FDP)
-          Financial Analyst - Finance Graduate Program (FGP). 
-            - Bullet point
-            - Bullet point
+           
+            - Senior Financial Analyst - Finance Development Program (FDP)
+            - Financial Analyst - Finance Graduate Program (FGP)
 
 certifications:
       title: Certifications

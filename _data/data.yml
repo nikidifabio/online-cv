@@ -77,7 +77,7 @@ experiences:
       - role: JP Morgan Chase & Co.
         time: June 2022 - Present
         company: Warsaw (Poland)
-        details: |Senior Associate
+        details: Senior Associate
           Firmwide Regulatory Reporting (FRRA) 
             - Bullet point
             - Bullet point
@@ -99,7 +99,7 @@ experiences:
       - role: Lenovo
         time: March 2017 - April 2018
         company: Warsaw (Poland)
-        details: |Business Controls Analyst
+        details: Business Controls Analyst
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. 
             - Bullet point
@@ -108,7 +108,7 @@ experiences:
       - role: Dell Technologies
         time: August 2014 - February 2017
         company: Warsaw (Poland) / Bratislava (Slovakia)
-        details: |Financial Analyst
+        details: Financial Analyst
             - Finance Development Program (FDP) consists of four six-month rotations and a significant academic focus to build solid finance skilss through MBA-type classes
             - Finance Graduate Program (FGP) is a one-year* on-the-job learning enriched with trainings in finance & business acumen, technical & soft skills
               (*earlier promotion to FDP after just 7 months)
@@ -125,8 +125,7 @@ certifications:
           credentialname: CFA
           details: |
             The Investment Foundations Certificate provides a comprehensive overview of the investment industry and its role in global capital markets.
-            Holders understand the key concepts of economics, financial analysis, investment strategies, ethics and regulations.
-        
+                    
         - name: Alteryx Designer Core Certification
           start: February 2023
           end:
@@ -136,8 +135,7 @@ certifications:
           credentialname: Alteryx
           details: |
             The Designer Core Certication provides a thorough understanding of the Alteryx Designer environment.
-            Holders are able to use the core toolset to clean, prepare, blend, transform, and analyze data to solve real-world analytics problems.
-
+            
 skills:
     title: Skills
 

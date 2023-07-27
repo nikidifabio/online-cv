@@ -98,8 +98,8 @@ experiences:
       - role: Lenovo
         time: March 2017 - April 2018
         company: Warsaw (Poland)
-        details: Business Controls Analyst
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+        details: |
+          Business Controls Analyst
           adipiscing elit. 
             - Bullet point
             - Bullet point
@@ -107,8 +107,11 @@ experiences:
       - role: Dell Technologies
         time: August 2014 - February 2017
         company: Bratislava (Slovakia) / Warsaw (Poland)
-        details: Financial Analyst / Senior Financial Analyst
-          Finance Graduate Program (FGP) / Finance Development Program (FDP).
+        details: |
+          Senior Financial Analyst - Finance Development Program (FDP)
+          Financial Analyst - Finance Graduate Program (FGP). 
+            - Bullet point
+            - Bullet point
 
 certifications:
       title: Certifications

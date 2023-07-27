@@ -14,8 +14,8 @@ sidebar:
 
     # Sidebar links
     email: nikidifabio@gmail.com
-    phone: +48 531 687 131
-    timezone: Poland
+    phone: +48 531687131
+    timezone: 
     citizenship: 
     website:  #do not add http://
     linkedin: nikidifabio
@@ -74,7 +74,7 @@ education:
 experiences:
     title: Professional Experience
     info:
-      - role: JPMorgan Chase, Warsaw (Poland)
+      - role: JPMorgan Chase
         time: June 2022 - still
         company: Senior Associate, FRRA (Jun 2022 - still)
         details: |
@@ -84,7 +84,7 @@ experiences:
         time: Mar 2022 - May 2022
         company: 
         details: |
-      - role: JPMorgan Chase, Warsaw (Poland)
+      - role: JPMorgan Chase
         time: May 2018 - Feb 2023
         company: Associate, GSS (Sep 2021 - Feb 2022)
         details: |
@@ -99,16 +99,16 @@ experiences:
         company: Senior Analyst / Associate, FRRA (May 2018 - Jul 2020)
         details: |
             - Schedule Prep for quarterly deposits and cash reporting (10Q, Call, Y-9C, Y-15)
-      - role: Business Controls Analyst
+      - role: Lenovo
         time: Mar 2017 - Apr 2018
-        company: Lenovo, Warsaw (Poland)
+        company: Business Controls Analyst
         details: |
             - implemented improvements to business processes (e.g., introduced a stock-in-channel monitoring dashboard
               to control rebates accrual process)
             - created corporate policies to align the newly acquired Motorola to Lenovo existing business
-      - role: Financial Analyst
+      - role: Dell Technology
         time: Aug 2014 - Feb 2017
-        company: Dell Technology
+        company: Financial Analyst
         details: |
             - Finance Development Program (FDP), Warsaw (Poland)
             - Finance Graduate Program (FGP), Bratislava (Slovakia)
